@@ -1,0 +1,25 @@
+
+h1 {
+  color: #000000;
+  font-family: arial, verdana, sans-serif;
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+}
+
+#section{
+	height: 1000px;
+	background-color: #e7e7e7;
+	font-family: arial, verdana, sans-serif;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #5E6FFF;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
